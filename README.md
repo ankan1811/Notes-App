@@ -3,6 +3,13 @@
 ### An app in which you can create your own notes and also delete it if required. The notes are displayed with the help of recycler view and this app follows the modern MVVM architecture consisting of DAO, database, viewModel, Repository, Activity and more.
 
 
+# This app uses a similar architecture to the [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
+
+
+![](https://github.com/thinktocode/Note-App/blob/master/screenshots/ANDROID%20ROOM%20DB%20DIAGRAM.jpg)
+
+</br>
+
 # 1.Overview of Notes App:
 
 </br>
